@@ -235,6 +235,10 @@ section,
   text-decoration: underline;
 }
 
+.nav-list a:active {
+  color: magenta;
+}
+
 /* //////////////////////
   Footer
   /////////////////////// */
