@@ -171,7 +171,7 @@ section,
 .flex-group {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--gap, 1em);
+  gap: var(--gap, 2em);
 }
 
 .text-center {
@@ -205,6 +205,7 @@ section,
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-right: 150px;
 }
 
 .header__img {
@@ -338,6 +339,7 @@ footer span:hover a {
 
 /* //////////////////////
   Article snippets
+
   /////////////////////// */
 
 .snippet {
@@ -357,6 +359,7 @@ footer span:hover a {
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
 .snippet__title {
   grid-area: title;
 }
