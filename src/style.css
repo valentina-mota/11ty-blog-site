@@ -203,9 +203,8 @@ section,
 
 .page-header__content {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  padding-right: 150px;
 }
 
 .header__img {
