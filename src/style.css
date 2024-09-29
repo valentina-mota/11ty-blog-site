@@ -307,6 +307,11 @@ footer span:hover a {
   object-fit: cover;
 }
 
+.caption {
+  font-size: 14px;
+  font-style: italic;
+}
+
 @media (min-width: 45em) {
   .hero > div {
     grid-auto-flow: column;
