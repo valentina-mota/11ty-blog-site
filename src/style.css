@@ -450,3 +450,9 @@ footer span:hover a {
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
+
+@media (max-width: 400px) {
+  .header__img {
+    transform: scale(.6);
+  }
+}
