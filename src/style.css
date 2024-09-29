@@ -457,7 +457,11 @@ footer span:hover a {
   }
 
   .container {
-    padding: 3px 0;
+    padding: 0 0 0 2px;
+  }
+
+  .page-header {
+    padding: 1.5em 0 0 0;
   }
 
 
