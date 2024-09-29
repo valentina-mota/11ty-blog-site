@@ -178,7 +178,7 @@ section,
   text-align: center;
 }
 
-/* typgraphy */
+/* typography */
 
 .article-title,
 .section-title {
@@ -470,11 +470,17 @@ footer span:hover a {
   }
 
   main .hero {
-    padding-top: 60px;
+    padding-top: 0px;
   }
 
-  .hero__content.flow {
+  .hero__content.flow p {
     padding-inline: 8px 2px;
+  }
+
+  .section-title {
+    margin-top: 70px;
+    margin-left: 8px;
+    margin-bottom: ;
   }
 
   .text-center {
