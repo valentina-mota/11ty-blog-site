@@ -49,11 +49,13 @@ Language significantly influences Japanese web design. The use of three distinct
 ![Starbucks JP / Starbucks USA](/assets/blog/japanese-web-design_1.png)
 
 ## Western Minimalist Web Design
+
 In contrast, USA and European web design lean towards minimalism, guided by the philosophy of "less is more". This approach prioritizes clean, simple layouts that focus on essential elements, enhancing ease of navigation and intuitive user experience. Negative space plays a critical role in reducing visual clutter, directing the user’s attention to key content.
 
 The widespread use of the English language also shapes Western web design, allowing for streamlined interfaces with less explanatory text. The universality of English fosters simplicity, as users are more familiar with its conventions, reducing the need for over-communication in design.
 
 ## Conclusion
+
 Japanese web design reflects a cultural preference for comprehensive information, with designs that can appear cluttered due to complex visual styles, large fonts, and dynamic elements.
 
 On the other hand, Western web design often favors a minimalist style, emphasizing clarity, simplicity, and efficient navigation.
@@ -65,20 +67,19 @@ So, perhaps, beauty just rests in the hands of the chooser - shaped by the cultu
 Canva.com
 
 ### Images
+
 Fair Use Disclaimer - The images and content used in this document are for the purposes of critique, commentary, and comparative analysis. This use is covered under fair use laws, as the use is transformative and does not negatively impact the market of the original work. All images and content belong to their respective owners.
 
 ### References
 
-Maxwell Forrest, The Overwhelming World of Japanese Web Design
+Maxwell Forrest, [The Overwhelming World of Japanese Web Design](https://www.uxresearch.jp/blog/japanese-web-design).
 
-Sarransh Agrawal, The Art of the Cluttered Website: Why Japanese Web Design is So Unique
+Sarransh Agrawal, [The Art of the Cluttered Website: Why Japanese Web Design is So Unique](https://www.prodt.co/blogs/the-art-of-the-cluttered-website-why-japanese-web-design-is-so-unique).
 
-Suzuka Ito, Japanese Web Design Traits & Localization
+Suzuka Ito, [Japanese Web Design Traits & Localization](https://blog.btrax.com/japanese-web-design/).
 
-Julian Horsey, Inside look at Japanese web design techniques
+Julian Horsey, [Inside look at Japanese web design techniques](https://www.geeky-gadgets.com/japanese-web-design/).
 
-Douglass McGowan, The truth about Japanese web design
+Douglass McGowan, [The truth about Japanese web design](https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/).
 
-Mondo Marketing, Differences Between Japan and USA Web Design Trends
-
-
+Mondo Marketing, [Differences Between Japan and USA Web Design Trends](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/).
