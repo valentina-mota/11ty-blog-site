@@ -30,7 +30,7 @@ A striking comparison can be made between **East Asian** and **USA-European aest
 
 <br>
 <br>
-## The Japan’s Maximalist Web Design
+##The Japan’s Maximalist Web Design
 
 Research in cultural psychology shows that East Asians are more skilled at handling large amounts of information. They navigate information-rich environments more easily, whether online or in real life, and prefer detailed, upfront content on websites.
 
@@ -49,7 +49,7 @@ While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more
 **Language** significantly influences **Japanese web design**. The use of three distinct scripts - **hiragana**, **katakana**, and **kanji** - means that **Japanese text** takes up more visual space, often leading to busier-looking pages. This linguistic complexity further emphasizes the **maximalist nature** of Japanese web aesthetics, where clarity and detail take precedence over **minimalism**.
 
 ![Starbucks JP / Starbucks USA](/assets/blog/japanese-web-design_1.png)
-***Starbucks JP / Starbucks USA***
+<p class ="caption">Starbucks JP / Starbucks USA</p>
 <br>
 <br>
 ## Western Minimalist Web Design

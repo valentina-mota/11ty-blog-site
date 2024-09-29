@@ -308,8 +308,10 @@ footer span:hover a {
 }
 
 .caption {
-  font-size: 14px;
+  font-size: 16px;
   font-style: italic;
+  font-weight: var(--fw-900);
+  text-align: center;
 }
 
 @media (min-width: 45em) {
