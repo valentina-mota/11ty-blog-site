@@ -26,7 +26,7 @@ In a globalized world, there's a risk that an "economy lingo" could dominate all
 
 A striking comparison can be made between **East Asian** and **USA-European aesthetics** in web design. Websites should not follow a one-size-fits-all model, as ignoring cultural subtleties can lead to exclusion, misunderstandings, and poor user experience.
 ![Yahoo JP / Yahoo USA](/assets/blog/japanese-web-design_2.png)
-<p class="caption">Yahoo JP / Yahoo USA<p>
+***Yahoo JP / Yahoo USA***
 
 <br>
 <br>
@@ -49,7 +49,9 @@ While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more
 **Language** significantly influences **Japanese web design**. The use of three distinct scripts - **hiragana**, **katakana**, and **kanji** - means that **Japanese text** takes up more visual space, often leading to busier-looking pages. This linguistic complexity further emphasizes the **maximalist nature** of Japanese web aesthetics, where clarity and detail take precedence over **minimalism**.
 
 ![Starbucks JP / Starbucks USA](/assets/blog/japanese-web-design_1.png)
-
+***Starbucks JP / Starbucks USA***
+<br>
+<br>
 ## Western Minimalist Web Design
 
 In contrast, **USA** and **European web design** lean towards minimalism, guided by the philosophy of ***less is more***. This approach prioritizes clean, simple layouts that focus on essential elements, enhancing ease of navigation and intuitive user experience. **Negative space** plays a critical role in reducing visual clutter, directing the user’s attention to key content.
