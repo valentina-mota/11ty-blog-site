@@ -52,6 +52,7 @@ While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more
 <p class ="caption">Starbucks JP / Starbucks USA</p>
 <br>
 <br>
+
 ## Western Minimalist Web Design
 
 In contrast, **USA** and **European web design** lean towards minimalism, guided by the philosophy of ***less is more***. This approach prioritizes clean, simple layouts that focus on essential elements, enhancing ease of navigation and intuitive user experience. **Negative space** plays a critical role in reducing visual clutter, directing the user’s attention to key content.
