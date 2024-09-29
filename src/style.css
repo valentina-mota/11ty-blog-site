@@ -493,6 +493,13 @@ footer span:hover a {
     margin-left: 8px;
   }
 
-  
+  .section-title {
+    margin-top: 50px;
+    padding-left: 8px;
+  }
+
+  .articles__list.flow {
+    margin-top: 50px;
+  }
 
 }
