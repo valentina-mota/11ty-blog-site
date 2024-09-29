@@ -469,7 +469,7 @@ footer span:hover a {
   }
 
   .hero__content.flow {
-    padding-inline: 2px;
+    padding-inline: 4px 2px;
   }
 
 }
