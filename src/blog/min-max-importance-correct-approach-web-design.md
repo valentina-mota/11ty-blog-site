@@ -27,8 +27,6 @@ In a globalized world, there's a risk that an "economy lingo" could dominate all
 A striking comparison can be made between **East Asian** and **USA-European aesthetics** in web design. Websites should not follow a one-size-fits-all model, as ignoring cultural subtleties can lead to exclusion, misunderstandings, and poor user experience.
 ![Yahoo JP / Yahoo USA](/assets/blog/japanese-web-design_2.png)
 <p class ="caption">Yahoo JP / Yahoo USA</p>
-
-<br>
 <br>
 
 ## The Japan’s Maximalist Web Design
@@ -51,7 +49,6 @@ While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more
 
 ![Starbucks JP / Starbucks USA](/assets/blog/japanese-web-design_1.png)
 <p class ="caption">Starbucks JP / Starbucks USA</p>
-<br>
 <br>
 
 ## Western Minimalist Web Design
