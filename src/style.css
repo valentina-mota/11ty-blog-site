@@ -306,6 +306,12 @@ footer span:hover a {
   /* max-height: max(15rem, 40vh); */
   object-fit: cover;
 }
+/* size del testo della caption delle immagini*/
+.caption {
+  font-size: 12px;
+  font-style: italic;
+}
+/* FINE size del testo della caption delle immagini*/
 
 @media (min-width: 45em) {
   .hero > div {
