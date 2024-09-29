@@ -30,7 +30,8 @@ A striking comparison can be made between **East Asian** and **USA-European aest
 
 <br>
 <br>
-##The Japan’s Maximalist Web Design
+
+## The Japan’s Maximalist Web Design
 
 Research in cultural psychology shows that East Asians are more skilled at handling large amounts of information. They navigate information-rich environments more easily, whether online or in real life, and prefer detailed, upfront content on websites.
 
