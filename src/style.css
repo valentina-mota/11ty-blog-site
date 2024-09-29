@@ -457,7 +457,19 @@ footer span:hover a {
   }
 
   .container {
-    padding: 0 0 0;
+    padding: 0;
+  }
+
+  .page-header__content {
+    justify-content: left;
+  }
+
+  main .hero {
+    padding-top: 60px;
+  }
+
+  .hero__content.flow {
+    padding-inline: 2px;
   }
 
 }
