@@ -455,4 +455,10 @@ footer span:hover a {
   .header__img {
     transform: scale(.6);
   }
+
+  .container {
+    padding: 3px 0;
+  }
+
+
 }
