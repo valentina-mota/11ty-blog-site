@@ -307,6 +307,11 @@ footer span:hover a {
   object-fit: cover;
 }
 
+.hero span {
+  font-weight: var(--fw-900);
+  font-style: italic;
+}
+
 .caption {
   font-size: 16px;
   font-style: italic;
