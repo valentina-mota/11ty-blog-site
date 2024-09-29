@@ -453,15 +453,20 @@ footer span:hover a {
 
 @media (max-width: 400px) {
   .header__img {
-    transform: scale(.6);
+    transform: scale(1.2);
+    margin-bottom: 20px;
   }
 
   .container {
     padding: 0;
   }
 
+  .page-header {
+    padding-bottom: 10px;
+  }
+
   .page-header__content {
-    justify-content: left;
+    flex-direction: column;
   }
 
   main .hero {
@@ -469,7 +474,25 @@ footer span:hover a {
   }
 
   .hero__content.flow {
-    padding-inline: 4px 2px;
+    padding-inline: 8px 2px;
   }
+
+  .text-center {
+    padding-inline: 8px;
+  }
+
+  .snippet__title {
+    padding-inline: 8px;
+  }
+
+  .snippet__body {
+    padding-inline: 8px;
+  }
+
+  .btn.btn--primary {
+    margin-left: 8px;
+  }
+
+  
 
 }
