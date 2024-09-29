@@ -8,6 +8,8 @@ imageAlt:
 description: Explore the cultural contrasts between Western minimalist and Japanese maximalist web design. This article delves into how cultural values, language, and psychology shape user experience, comparing detailed, content-rich designs in Japan with clean, simple layouts in the West.
 ---
 
+## Introduction
+
 **Beauty** is in the eye of the beholder.
 
 Is it really?
@@ -23,9 +25,8 @@ This concept applies strongly to web design. Today, web design guides beauty thr
 In a globalized world, there's a risk that an "economy lingo" could dominate all aspects of **culture**. However, cultural peculiarities persist, and it's in these nuances that **beauty in design** can differ significantly.
 
 A striking comparison can be made between **East Asian** and **USA-European aesthetics** in web design. Websites should not follow a one-size-fits-all model, as ignoring cultural subtleties can lead to exclusion, misunderstandings, and poor user experience.
-
 ![Yahoo JP / Yahoo USA](/assets/blog/japanese-web-design_2.png)
-
+<br>
 ## The Japan’s Maximalist Web Design
 
 Research in cultural psychology shows that East Asians are more skilled at handling large amounts of information. They navigate information-rich environments more easily, whether online or in real life, and prefer detailed, upfront content on websites.
