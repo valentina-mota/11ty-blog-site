@@ -482,6 +482,10 @@ footer span:hover a {
     padding-inline: 8px 2px;
   }
 
+  section.hero {
+    padding-bottom: 0;
+  }
+
   .section-title {
     margin-top: 70px;
     margin-left: 8px;
