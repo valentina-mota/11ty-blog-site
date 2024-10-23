@@ -3,7 +3,7 @@ title: Node.js: The Silent Engine of Modern Web Apps
 author:
 date:
 tags: ["post", "featured"]
-image: /assets/blog/article-6-feat-cover-1440x1080_ratio4-3.png
+image: /assets/blog/article-3-node-js_2.jpg
 imageAlt:
 description: In this article, we'll dive into what Node.js is, why it's so popular, and a few fun facts that make it an essential tool in today’s tech ecosystem..
 ---
