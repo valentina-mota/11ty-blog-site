@@ -128,6 +128,6 @@ Both effects offer creative solutions for advanced visual interactions, but they
 
 This article is inspired by [Michelle Barker](https://www.linkedin.com/in/michelle-barker-02819230/)’s study [Dynamic CSS Masks with Custom Properties and GSAP](https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/).
 
-**Images**: [Freepik.com](https://www.freepik.com/), [Carbon.sh](https://carbon.now.sh/)
+**Images:** [Freepik.com](https://www.freepik.com/), [Carbon.sh](https://carbon.now.sh/)
 
-**Code**: [GitHub Repository](https://github.com/valentina-mota/lighting-effects-projects/tree/main)
+**Code:**: [GitHub Repository](https://github.com/valentina-mota/lighting-effects-projects/tree/main)
