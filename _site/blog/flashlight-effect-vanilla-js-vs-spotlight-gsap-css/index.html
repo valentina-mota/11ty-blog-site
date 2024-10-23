@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A personal tech blog built with JAMstack technology, featuring articles on modern web development.">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://vm-webdev-tech-blog.netlify.app">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Blog Homepage">
+    <meta property="og:description" content="A personal tech blog built with JAMstack technology, featuring articles on modern web development.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/valentina-mota/web-images/refs/heads/main/opengraph-thumbnail-1200x630.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="vm-webdev-tech-blog.netlify.app">
+    <meta property="twitter:url" content="https://vm-webdev-tech-blog.netlify.app">
+    <meta name="twitter:title" content="Blog Homepage">
+    <meta name="twitter:description" content="A personal tech blog built with JAMstack technology, featuring articles on modern web development.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/valentina-mota/web-images/refs/heads/main/opengraph-thumbnail-1200x630.png">
+    <title>Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS</title>
+    <link rel="icon" type="image/svg+xml" href="../assets/logo/favicon.svg" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="page-header">
+  <div class="container">
+    <div class="page-header__content">
+      <div class="header__img">
+        <a
+          href="https://vm-webdev-tech-blog.netlify.app/"
+          ><img
+            src="https://raw.githubusercontent.com/valentina-mota/web-images/refs/heads/main/vm_logo-blog.png"
+            alt="Valentina Mota blog logo"
+        /></a>
+      </div>
+      <nav>
+        <ul role="list" class="nav-list flex-group">
+          <li>
+            <a href="/">BLOG</a>
+          </li>
+          <li>
+            <a href="/blog/">ARCHIVE</a>
+          </li>
+          <li>
+            <a href="https://valentinamota.me" rel = "noreferrer noopener" target="_blank"> PORTFOLIO</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+    <main>
+      
+<article class="main-article">
+  <div class="container container--narrow flow">
+    <h1 class="article-title">
+      Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS
+    </h1>
+    <figure class="main-article__figure">
+      <img src="/assets/blog/article-6-feat-cover-1440x1080_ratio4-3.png" alt="" />
+      <figcaption></figcaption>
+    </figure>
+
+    <h2>Introduction</h2>
+<p>In this article, I am going to explore two different approaches to creating a dynamic light effect on an image gallery:</p>
+<ul>
+<li>
+<p>the <strong>Flashlight Effect with Vanilla JavaScript</strong>.
+<br>
+<br></p>
+</li>
+<li>
+<p>the <strong>Spotlight Effect</strong> created using <strong>GSAP and CSS</strong>.</p>
+</li>
+</ul>
+<p>You will see how each effect works, the technologies they leverage, and in which scenarios they might best suit your needs.</p>
+<h2>Flashlight Effect with Vanilla JS</h2>
+<h3>Effect Description</h3>
+<p>The Flashlight Effect emulates a flashlight following the mouse cursor, illuminating a portion of the screen while the rest remains dark.</p>
+<p>This effect is rendered in the browser dynamically by continually updating CSS custom properties to track the position of the light source.</p>
+<p><img src="/assets/blog/article-6-css-gsap-flashlight-effect.png" alt="Flashlight Effect Rendering"></p>
+<h3>How It Works</h3>
+<ul>
+<li>
+<p><strong>HTML</strong>: The HTML structure is straightforward, consisting of an image gallery grid with an overlay for darkening the &quot;light&quot; areas, which reflects the light source.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>CSS</strong>: The <code>background-image</code> property with a radial-gradient is used to create the circular light. The gradient's position is updated based on the CSS custom properties: <code>--x</code> and <code>--y</code>, representing the cursor coordinates.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>JavaScript</strong>: A short Vanilla JS script captures the mouse coordinates and updates the CSS custom properties in real-time, moving the light circle smoothly across the screen.</p>
+</li>
+</ul>
+<p><img src="/assets/blog/article-6-carbon_01.png" alt="JavaScript Code"></p>
+<h3>Strengths</h3>
+<ul>
+<li>
+<p><strong>Simplicity</strong>: The implementation is simple and direct, ideal for projects that require a lightweight solution with no external dependencies.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>Performance</strong>: With minimal JavaScript, it ensures excellent performance on both mobile and desktop devices.</p>
+</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>
+<p><strong>Limited Customization</strong>: Being a native implementation, extending or modifying the effect can be challenging without adding extra complexity.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>Animation</strong>: The smoothness of the animation depends mainly on the browser's capabilities, with no advanced tools for managing timelines or easing effects.</p>
+</li>
+</ul>
+<h2>Spotlight Effect with GSAP and CSS</h2>
+<h3>Effect Description</h3>
+<p>In order to create the Spotlight Effect, I created two identical grid sections, adding the attribute:
+<br>
+<br>
+<code>
+aria-hidden = &quot;true&quot;
+</code>
+<br></p>
+<p>to one of them for <strong>accessibility</strong> reasons. These two sections are overlapped (with the brighter one on top). The light circle is then created using the clip-path property on the top section, effectively revealing the &quot;hidden content&quot; beneath.</p>
+<p>Here, GSAP manages the smooth and precise animation of the light circle’s position as it follows the mouse movement. Specifically, GSAP is used to animate the values of the CSS custom properties <code>--x</code> and <code>--y</code>, which determine the center position of the light circle within the overlay element.</p>
+<p><img src="/assets/blog/article-6-css-gsap-spotlight-effect.png" alt="Spotlight Effect Rendering"></p>
+<br>
+<h3>How It Works</h3>
+<ul>
+<li>
+<p><strong>HTML</strong>: The HTML consists of an image gallery grid, with an added layer - a section with the class <code>overlay</code> - that uses the clip-path property to create the light circle.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>CSS</strong>: The <code>clipPath</code> property is animated to create a light effect following the mouse. Additionally, GSAP is used to handle transitions, providing smooth transitions
+and highly customizable effects.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>JavaScript</strong>: GSAP animates the CSS properties – <code>--x</code> and <code>--y</code>, enhancing the visual experience and allowing for customization through easing and other advanced features.</p>
+</li>
+</ul>
+<p><img src="/assets/blog/article-6-carbon_02.png" alt="JavaScript Code"></p>
+<br>
+<h3>Strengths</h3>
+<ul>
+<li>
+<p><strong>Power and Flexibility</strong>: Using GSAP allows for creating complex animations with ease, making it ideal for projects requiring advanced visual effects.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>Customization</strong>: Easing options, timelines, and other GSAP features provide a high degree of control over the effect.</p>
+</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>
+<p><strong>Dependencies</strong>: Using GSAP adds a dependency to the project, which can increase load time and setup complexity.
+<br>
+<br></p>
+</li>
+<li>
+<p><strong>Performance</strong>: While GSAP is optimized, using advanced animations may impact performance on less powerful devices.</p>
+</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Both effects offer creative solutions for advanced visual interactions, but they are suited to slightly different scenarios:</p>
+<ul>
+<li>
+<p>The <strong>Flashlight Effect</strong> is <strong>lightweight</strong> and <strong>simple</strong>, perfect for projects where speed and simplicity are essential.
+<br>
+<br></p>
+</li>
+<li>
+<p>The <strong>Spotlight Effect</strong> on the other hand, offers a <strong>broader range of creative possibilities</strong> and <strong>finer control over animations</strong>, making it ideal for more complex and visually rich projects. The choice between the two depends on the specific needs of the project and the resources available.
+<br>
+<br>
+<br></p>
+</li>
+</ul>
+<p>This article is inspired by <a href="https://www.linkedin.com/in/michelle-barker-02819230/">Michelle Barker</a>’s study <a href="https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/">Dynamic CSS Masks with Custom Properties and GSAP</a>.</p>
+<p><strong>Images:</strong> <a href="https://www.freepik.com/">Freepik.com</a>, <a href="https://carbon.now.sh/">Carbon.sh</a></p>
+<p><strong>Code:</strong>: <a href="https://github.com/valentina-mota/lighting-effects-projects/tree/main">GitHub Repository</a></p>
+
+  </div>
+</article>
+
+    </main>
+ 
+    <footer class="site-footer">
+  <p>
+    <span><a href="#">vm</a></span>
+  </p>
+  <p>© 2024 Valentina Mota. All rights reserved.</p>
+</footer>
+
+  </body>
+</html>
