@@ -3,7 +3,7 @@ title: Node.js, The Silent Engine of Modern Web Apps
 author:
 date:
 tags: ["post", "featured"]
-image: /assets/blog/article-3-node-js_2.jpg
+image: /assets/blog/node-js-cover.jpg
 imageAlt:
 description: In this article, we'll dive into what Node.js is, why it's so popular, and a few fun facts that make it an essential tool in today’s tech ecosystem.
 ---
@@ -40,7 +40,7 @@ Here are three reasons why developers love Node.js:
 - Single Language for Everything: Before Node.js, developers had to use different languages for the front-end and back-end. With Node.js, you can use JavaScript for both, simplifying the development process and reducing the time to market.
 - Massive Ecosystem: Thanks to NPM (Node Package Manager), Node.js boasts the largest ecosystem of open-source libraries. Want to add authentication, payment systems, or machine learning to your app? There’s probably an npm package for that!
 
-![textImage](/assets/blog/article-3-node-js_2.jpg)
+![textImage](/assets/blog/node-js-tex-image.jpg)
 
 ## Fun Facts About Node.js
 
