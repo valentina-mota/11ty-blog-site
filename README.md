@@ -18,7 +18,3 @@ The articles are written in Markdown, and include Front Matter. Depending on the
 ## DevProjects Challenge
 
 As mentioned, these files are here to help get started with a DevProjects challenge. Please visit the [challenge page](#) to learn more about the challenge.
-
-## Tutorial
-
-You can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin uses Eleventy, Netlify, and Netlify CMS to create a full-featured blog site built entirely with static files.
