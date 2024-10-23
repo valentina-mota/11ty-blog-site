@@ -5,8 +5,11 @@ date:
 tags: ["post", "featured"]
 image: /assets/blog/article-3-node-js_2.jpg
 imageAlt:
-description: In this article, we'll dive into what Node.js is, why it's so popular, and a few fun facts that make it an essential tool in today’s tech ecosystem..
+description: In this article, we'll dive into what Node.js is, why it's so popular, and a few fun facts that make it an essential tool in today’s tech ecosystem.
 ---
+
+## Introduction
+
 Have you ever wondered what powers some of your favorite websites like Netflix, LinkedIn, and even Uber?
 <br>
 TL;DR.
