@@ -61,7 +61,8 @@ The good EA of today is both a people connector and a digital enabler. With stro
 In short: a good EA does not just keep the office running, they help the organization move forward.
 
 **Image credits:**
-Feat. image: Image by [Freepik.com]([https://www.freepik.com/free-vector/flat-business-people-collection_13818711.htm]).
+Feat. image: Image by [Freepik.com](https://www.freepik.com/free-vector/flat-business-people-collection_13818711.htm).
+
 
 
 
