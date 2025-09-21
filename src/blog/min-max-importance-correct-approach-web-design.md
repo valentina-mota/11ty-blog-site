@@ -1,5 +1,5 @@
 ---
-title: Min or Max? The Importance of the Correct Approach in Web Design
+title: Min or max? The importance of the correct approach in web design
 author: 
 date: 
 tags: ["post", "featured"]
@@ -88,3 +88,4 @@ Douglass McGowan, [***The truth about Japanese web design***](https://multilingu
 
 
 Mondo Marketing, [***Differences Between Japan and USA Web Design Trends***](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/).
+
