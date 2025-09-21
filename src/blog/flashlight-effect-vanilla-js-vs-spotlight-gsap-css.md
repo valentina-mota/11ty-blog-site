@@ -3,7 +3,7 @@ title: Flashlight effect with vanilla JS vs spotlight effect with GSAP and CSS
 author:
 date:
 tags: ["post"]
-image: /assets/blog/article-6-feat-cover-1440x1080_ratio4-3.png
+image: /assets/blog/lighting-effects.png
 imageAlt:
 description: In this article, I am going to explore two different approaches to creating a dynamic light effect over an image gallery grid.
 ---
