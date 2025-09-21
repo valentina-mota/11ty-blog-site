@@ -1,5 +1,5 @@
 ---
-title: Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS
+title: Flashlight effect with vanilla JS vs spotlight effect with GSAP and CSS
 author:
 date:
 tags: ["post"]
