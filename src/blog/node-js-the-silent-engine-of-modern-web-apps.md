@@ -1,5 +1,5 @@
 ---
-title: Node.js, The Silent Engine of Modern Web Apps
+title: Node.js, the silent engine of modern web apps
 author:
 date:
 tags: ["post", "featured"]
