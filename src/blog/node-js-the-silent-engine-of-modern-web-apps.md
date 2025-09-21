@@ -18,7 +18,7 @@ Spoiler alert, it’s Node.js®.
 <br>
 OK, let’s dive in!
 
-## What Exactly is Node.js?
+## What exactly is Node.js?
 
 This is the thing. The official definition says that Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. It uses an event-driven, non-blocking I/O model, while NPM is the largest ecosystem of open source libraries in the world.
 
@@ -32,7 +32,7 @@ Basically, Node.js allows developers to use JavaScript (a language originally de
 
 This is revolutionary because it means developers can use the same language for both the front-end and back-end of a website, creating a smoother and faster development process. And that is cool.
 
-## Why is Node.js So Popular?
+## Why is Node.js so popular?
 
 Here are three reasons why developers love Node.js:
 
@@ -42,7 +42,7 @@ Here are three reasons why developers love Node.js:
 
 ![textImage](/assets/blog/node-js-tex-image.jpg)
 
-## Fun Facts About Node.js
+## Fun facts about Node.js
 
 Created in 2009: Node.js was developed by Ryan Dahl in 2009, when server-side JavaScript was ready to get off the ground. He wanted to build a more efficient way to handle multiple requests in web servers, and boy, did he succeed! A few years later, during his 2018 JSConf EU talk, 10 Things I Regret About Node.js, Ryan Dahl claimed that “using Node, at times, is kind of like nails on chalkboard, because I see the bugs that I introduced, that aren’t really bugs at this point, they’re just how it works, but still… bugs”. But, hey, that’s life!
 <br>
@@ -50,7 +50,7 @@ JavaScript Everywhere: With Node.js, you can use JavaScript for both client and 
 <br>
 Non-blocking I/O: Node.js uses a non-blocking I/O model, which means it can handle multiple operations simultaneously. For non-technical folks, this just means it's really good at multitasking!
 
-## Who Uses Node.js?
+## Who uses Node.js?
 
 Some of the biggest tech companies in the world use Node.js:
 
@@ -58,25 +58,25 @@ Some of the biggest tech companies in the world use Node.js:
 - LinkedIn: Oh, yes! LinkedIn switched from Ruby on Rails to Node.js for their mobile app backend and saw performance improvements.
 - Uber: With Uber's real-time demand and supply system, Node.js plays a pivotal role in handling millions of concurrent connections efficiently.
 
-## Why You Should Care About Node.js
+## Why you should care about Node.js
 
 Even if you’re not a developer, understanding why Node.js is changing the way the internet works can give you insight into the tech driving the world forward. If you're a business owner, it’s worth knowing that Node.js-based real-time applications are faster, more scalable, and easier to maintain.
 <br>
 If you're a developer or aspiring one, learning Node.js can seriously boost your career. It’s a versatile tool, and mastering it opens doors to full-stack development jobs.
 
-## Can You Learn JavaScript and Node.js Simultaneously?
+## Can you learn JavaScript and Node.js simultaneously?
 
 Sort of. As long as you know what tasks are exclusive to Node.js and what can only be done in a browser, you will be fine.
 <br>
 Node.js requires just a basic understanding of JavaScript, but having a solid grasp of JavaScript will make learning much more comfortable.
 
-## Final Thoughts
+## Final thoughts
 
 Node.js has transformed the way we build web applications, from small startups to tech giants like Netflix and Uber. Its speed, efficiency, and versatility make it a must-know for developers and a fascinating technology for anyone curious about the modern web.
 
 ## Looking for Node.js courses in Italian?
 If you're new to Node.js and prefer learning in Italian, check out Edoardo Midali's excellent courses on his website, Codegrind.it. He explains complex concepts in a simple, accessible way for non-English speakers.
 
-**Image Credits:**
+**Image credits:**
 Feat. image: Image by [Unsplash.com](https://unsplash.com/).
 Text image: Image by [Growtika](https://unsplash.com/it/@growtika) on [Unsplash.com](https://unsplash.com/).
