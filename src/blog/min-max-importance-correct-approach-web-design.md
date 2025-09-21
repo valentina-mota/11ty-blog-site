@@ -30,7 +30,7 @@ A striking comparison can be made between **East Asian** and **USA-European aest
 <p class ="caption">Yahoo JP / Yahoo USA</p>
 <br>
 
-## The Japan’s Maximalist Web Design
+## The Japan’s maximalist web design
 
 Research in cultural psychology shows that East Asians are more skilled at handling large amounts of information. They navigate information-rich environments more easily, whether online or in real life, and prefer detailed, upfront content on websites.
 
@@ -44,7 +44,7 @@ This same practice can be seen in **retail environments**, where stores and supe
 
 While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more minimalistic layouts, older generations of Japanese users still favor detailed and content-rich interfaces, reflecting their comfort with information-dense structures.
 
-## How Language Shapes Web Aesthetic
+## How language shapes web aesthetic
 
 **Language** significantly influences **Japanese web design**. The use of three distinct scripts - **hiragana**, **katakana**, and **kanji** - means that **Japanese text** takes up more visual space, often leading to busier-looking pages. This linguistic complexity further emphasizes the **maximalist nature** of Japanese web aesthetics, where clarity and detail take precedence over **minimalism**.
 
@@ -52,7 +52,7 @@ While modern platforms like [***Mercari***](https://www.mercari.com/) adopt more
 <p class ="caption">Starbucks JP / Starbucks USA</p>
 <br>
 
-## Western Minimalist Web Design
+## Western minimalist web design
 
 In contrast, **USA** and **European web design** lean towards minimalism, guided by the philosophy of ***less is more***. This approach prioritizes clean, simple layouts that focus on essential elements, enhancing ease of navigation and intuitive user experience. **Negative space** plays a critical role in reducing visual clutter, directing the user’s attention to key content.
 
@@ -66,7 +66,7 @@ On the other hand, **Western web design** often favors a minimalist style, empha
 
 So, perhaps, beauty just rests in the hands of the **chooser** - shaped by the culture they belong to.
 
-### Featured Image
+### Featured image
 
 [Canva.com](https://www.canva.com/)
 
@@ -85,5 +85,6 @@ Suzuka Ito, [***Japanese Web Design Traits & Localization***](https://blog.btrax
 Julian Horsey, [***Inside look at Japanese web design techniques***](https://www.geeky-gadgets.com/japanese-web-design/).
 
 Douglass McGowan, [***The truth about Japanese web design***](https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/).
+
 
 Mondo Marketing, [***Differences Between Japan and USA Web Design Trends***](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/).
