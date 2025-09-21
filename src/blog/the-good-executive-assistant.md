@@ -3,7 +3,7 @@ title: The Good Executive Assistant
 author: Valentina Mota
 date: 2025-09-21
 tags: ["post", "featured"]
-image: /assets/blog/blog/good-ex-assistant.png
+image: /assets/blog/good-ex-assistant.png
 imageAlt: 
 description: Discover why today’s Executive Assistant needs IT and AI skills. From ERP to AI tools, digital literacy is key to supporting teams effectively.
 ---
@@ -59,3 +59,4 @@ Technology is a powerful enabler, but the Executive Assistant’s value also lie
 The good Executive Assistant of today is both a people connector and a digital enabler. With strong IT skills and growing AI literacy, they transform daily administration into streamlined, reliable, and even enjoyable processes.
 
 In short: a good EA does not just keep the office running, they help the organization move forward.
+
