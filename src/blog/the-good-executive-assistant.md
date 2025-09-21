@@ -10,7 +10,7 @@ description: Discover why today’s Executive Assistant needs IT and AI skills. 
 
 ## The Executive Assistant in Transition
 
-The role of the Executive Assistant (EA) has changed dramatically. Once focused on scheduling, travel booking, and correspondence, today it requires far more than organizational skills. Modern businesses—whether multinational corporations or small local teams—rely on digital tools, cloud platforms, and automated systems. A “good” Executive Assistant is no longer just efficient and reliable: they are also digitally literate and able to navigate technology with confidence.
+The role of the Executive Assistant (EA) has changed dramatically. Once focused on scheduling, travel booking, and correspondence, today it requires far more than organizational skills. Modern businesses—whether multinational corporations or small local teams—rely on digital tools, cloud platforms, and automated systems. A good EA is no longer just efficient and reliable: they are also digitally literate and able to navigate technology with confidence.
 
 ## Why IT Literacy Is Crucial
 
@@ -59,5 +59,6 @@ Technology is a powerful enabler, but the EA’s value also lies in qualities th
 The good EA of today is both a people connector and a digital enabler. With strong IT skills and growing AI literacy, they transform daily administration into streamlined, reliable, and even enjoyable processes.
 
 In short: a good EA does not just keep the office running, they help the organization move forward.
+
 
 
