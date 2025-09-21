@@ -1,5 +1,5 @@
 ---
-title: The Good Executive Assistant
+title: The good Executive Assistant
 author: Valentina Mota
 date: 2025-09-21
 tags: ["post", "featured"]
@@ -62,6 +62,7 @@ In short: a good EA does not just keep the office running, they help the organiz
 
 **Image credits:**
 Feat. image: Image by [Freepik.com]([https://unsplash.com/](https://www.freepik.com/free-vector/flat-business-people-collection_13818711.htm)).
+
 
 
 
