@@ -1,9 +1,9 @@
 ---
-title: Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS
+title: Flashlight effect with vanilla JS vs spotlight effect with GSAP and CSS
 author:
 date:
 tags: ["post"]
-image: /assets/blog/article-6-feat-cover-1440x1080_ratio4-3.png
+image: /assets/blog/lighting-effects.png
 imageAlt:
 description: In this article, I am going to explore two different approaches to creating a dynamic light effect over an image gallery grid.
 ---
@@ -20,9 +20,9 @@ In this article, I am going to explore two different approaches to creating a dy
 
 You will see how each effect works, the technologies they leverage, and in which scenarios they might best suit your needs.
 
-## Flashlight Effect with Vanilla JS
+## Flashlight effect with vanilla JS
 
-### Effect Description
+### Effect description
 
 The Flashlight Effect emulates a flashlight following the mouse cursor, illuminating a portion of the screen while the rest remains dark.
 
@@ -30,7 +30,7 @@ This effect is rendered in the browser dynamically by continually updating CSS c
 
 ![Flashlight Effect Rendering](/assets/blog/article-6-css-gsap-flashlight-effect.png)
 
-### How It Works
+### How it works
 
 - **HTML**: The HTML structure is straightforward, consisting of an image gallery grid with an overlay for darkening the "light" areas, which reflects the light source.
   <br>
@@ -60,9 +60,9 @@ This effect is rendered in the browser dynamically by continually updating CSS c
 
 - **Animation**: The smoothness of the animation depends mainly on the browser's capabilities, with no advanced tools for managing timelines or easing effects.
 
-## Spotlight Effect with GSAP and CSS
+## Spotlight effect with GSAP and CSS
 
-### Effect Description
+### Effect description
 
 In order to create the Spotlight Effect, I created two identical grid sections, adding the attribute:
 <br>
@@ -80,7 +80,7 @@ Here, GSAP manages the smooth and precise animation of the light circle’s posi
 
 <br>
 
-### How It Works
+### How it works
 
 - **HTML**: The HTML consists of an image gallery grid, with an added layer - a section with the class `overlay` - that uses the clip-path property to create the light circle.
   <br>
