@@ -90,9 +90,9 @@ IT lexicon is so fascinating in history and complexity, that a literature branch
 
 An example can be expressed in this *coem*, a tiny poem written in the syntax of code:
 
-`function fromWoodToWord(log) {
-  const code = encode(log);
-  return memory(code);
+`function fromWoodToWord(log) {<br>
+  const code = encode(log);<br>
+  return memory(code);<br>
 }`
 
 The function is imaginary, but its logic and transmitted message are real.
