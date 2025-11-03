@@ -38,7 +38,7 @@ Likewise, firewall came from the real world.
 In architecture, a firewall is a solid barrier that keeps fire from spreading between parts of a building. By the late 1980s, network engineers borrowed the same word to describe the software that stops harmful data from crossing between systems.
 The intent was identical: **containment**, **safety**, **survival**.
 
-## The living body of machines
+## Living bodies and relationships
 
 The digital world also adopted the language of biology.
 Computers have *memory* and *feedback loops*.
@@ -50,8 +50,17 @@ In 1947, engineers at Harvard University found a moth trapped inside the Mark II
 The joke survived and debugging became a permanent part of programming.
 Engineers had already used the word bug to describe mechanical faults since the days of Thomas Edison, but Hopper turned *bug* and *debug* into everyday terms in computing.
 
-Later, terms like *virus*, *worm*, and *antivirus* extended the metaphor.
-Computers can be *infected*, files need to be *quarantined* and it is a good practice *sanitizing* code.
+The IT lexicon is metaphorical par excellence.
+
+In the 1970s, the engineers of UNIX at Bell Labs began describing their new operating system in strangely human terms: child and parent processes, orphans, and zombies. A program that generated another became a *parent*; one left without supervision became an *orphan*; a terminated process that refused to disappear lingered as a *zombie*.
+Even the command used to stop a process was called *kill*, an almost brutal verb that turned system administration into a miniature theatre of life and death.
+
+These metaphors were improvised by programmers amused by the life their machines seemed to simulate.
+
+Earlier, at MIT’s Project MAC, researchers had already borrowed from philosophy and physics, calling their background services daemons, after Maxwell’s thought experiment — invisible agents regulating the unseen.
+By the 1980s, with the spread of networks and hacking culture, the lexicon expanded: *worms*, *viruses*, *Trojan horses*, *ghosts*, and *phantoms* populated the digital landscape.
+The gothic imagination and the mythic past returned, repurposed to describe systems that were no longer visible, physical, or easily controlled.
+Computers can be *infected*, files need to be *quarantined* and it is a good practice to *sanitize* code.
 
 ## Language of war and defence
 
@@ -84,9 +93,9 @@ During that meeting, Jim Kardach from Intel proposed the name **Bluetooth**, a t
 > "King Harald Bluetooth was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link."
 > <a href="https://www.bluetooth.com/about-us/bluetooth-origin/" target="_blank" rel="noopener noreferrer">Bluetooth.com</a>
 
-The name was not meant to be permanent. The team considered two alternatives, but both resulted inapplicable at the moment of the official launch, so Bluetooth stayed. The name spread quickly within the industry and became impossible to replace.
+The name was not meant to be permanent. The team considered two alternatives, but both resulted inapplicable at the moment of the official launch, so the name stayed. The name spread quickly within the industry and became impossible to replace.
 Its logo combines two runes from the Younger Futhark alphabet, *Hagall* (ᚼ) and *Bjarkan* (ᛒ), the initials of King Harald Bluetooth’s name, merged into a single symbol.
-IT lexicon is so fascinating in history and complexity, that a literature branch is born to express its charm: Code poetry is a writing technique that mixes notions of classical poetry and coding language.
+The IT terminology is so fascinating in history and complexity, that a literature branch is born to express its allure: Code poetry is a writing technique that mixes notions of classical poetry and coding language.
 
 An example can be expressed in this *coem*, a tiny poem written in the syntax of code:
 
