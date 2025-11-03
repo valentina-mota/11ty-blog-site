@@ -76,16 +76,16 @@ Fair Use Disclaimer - The images and content used in this document are for the p
 
 ### References
 
-Maxwell Forrest, [***The Overwhelming World of Japanese Web Design***](https://www.uxresearch.jp/blog/japanese-web-design){:target="_blank", rel="noopener noreferrer"}
+Maxwell Forrest, [***The Overwhelming World of Japanese Web Design***](https://www.uxresearch.jp/blog/japanese-web-design)
 
-Sarransh Agrawal, [***The Art of the Cluttered Website: Why Japanese Web Design is So Unique***](https://www.prodt.co/blogs/the-art-of-the-cluttered-website-why-japanese-web-design-is-so-unique){:target="_blank", rel="noopener noreferrer"}
+Sarransh Agrawal, [***The Art of the Cluttered Website: Why Japanese Web Design is So Unique***](https://www.prodt.co/blogs/the-art-of-the-cluttered-website-why-japanese-web-design-is-so-unique)
 
-Suzuka Ito, [***Japanese Web Design Traits & Localization***](https://blog.btrax.com/japanese-web-design/){:target="_blank", rel="noopener noreferrer"}
+Suzuka Ito, [***Japanese Web Design Traits & Localization***](https://blog.btrax.com/japanese-web-design/)
 
-Julian Horsey, [***Inside look at Japanese web design techniques***](https://www.geeky-gadgets.com/japanese-web-design/){:target="_blank", rel="noopener noreferrer"}
+Julian Horsey, [***Inside look at Japanese web design techniques***](https://www.geeky-gadgets.com/japanese-web-design/)
 
-Douglass McGowan, [***The truth about Japanese web design***](https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/){:target="_blank", rel="noopener noreferrer"}
+Douglass McGowan, [***The truth about Japanese web design***](https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/)
 
 
-Mondo Marketing, [***Differences Between Japan and USA Web Design Trends***](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/){:target="_blank", rel="noopener noreferrer"}
+Mondo Marketing, [***Differences Between Japan and USA Web Design Trends***](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/)
 

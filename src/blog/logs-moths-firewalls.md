@@ -102,6 +102,15 @@ Language records movement, turns it into information, and finally preserves it a
 Every time a programmer writes a line of code, every time a user opens a window or checks a log file, we are continuing an ancient conversation between the physical and the virtual.
 
 ## Bibliography
-- [Abbate, J. (1999). Inventing the Internet. MIT Press](https://mitpress.mit.edu/9780262511155/inventing-the-internet/){target="_blank", rel="noopener noreferrer"}
-- [Ceruzzi, P. E. (2003). A History of Modern Computing. MIT Press](https://quod.lib.umich.edu/j/jahc/3310410.0002.218/--paul-e-ceruzzis-a-history-of-modern-computing?rgn=main;view=fulltext){target="_blank", rel="noopener noreferrer"}
-- [Manovich, L. (2001). The Language of New Media. MIT Press](https://mitpress.mit.edu/9780262632553/the-language-of-new-media/){target="_blank", rel="noopener noreferrer"}
+- <a href="https://mitpress.mit.edu/9780262511155/inventing-the-internet/"
+     target="_blank" rel="noopener noreferrer">
+  Abbate, J. (1999). *Inventing the Internet*. MIT Press
+  </a>
+- <a href="https://mitpress.mit.edu/9780262530989/a-history-of-modern-computing/"
+     target="_blank" rel="noopener noreferrer">
+  Ceruzzi, P. E. (2003). *A History of Modern Computing*. MIT Press
+  </a>
+- <a href="https://mitpress.mit.edu/9780262632553/the-language-of-new-media/"
+     target="_blank" rel="noopener noreferrer">
+  Manovich, L. (2001). *The Language of New Media*. MIT Press
+  </a>
