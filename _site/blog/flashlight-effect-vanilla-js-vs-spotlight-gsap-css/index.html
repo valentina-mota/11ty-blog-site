@@ -19,7 +19,7 @@
     <meta name="twitter:title" content="Blog Homepage">
     <meta name="twitter:description" content="A personal tech blog built with JAMstack technology, featuring articles on modern web development.">
     <meta name="twitter:image" content="https://raw.githubusercontent.com/valentina-mota/web-images/refs/heads/main/opengraph-thumbnail-1200x630.png">
-    <title>Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS</title>
+    <title>Flashlight effect with vanilla JS vs spotlight effect with GSAP and CSS</title>
     <link rel="icon" type="image/svg+xml" href="../assets/logo/favicon.svg" />
     <link rel="stylesheet" href="/style.css" />
   </head>
@@ -57,10 +57,10 @@
 <article class="main-article">
   <div class="container container--narrow flow">
     <h1 class="article-title">
-      Flashlight Effect with Vanilla JS vs Spotlight Effect with GSAP and CSS
+      Flashlight effect with vanilla JS vs spotlight effect with GSAP and CSS
     </h1>
     <figure class="main-article__figure">
-      <img src="/assets/blog/article-6-feat-cover-1440x1080_ratio4-3.png" alt="" />
+      <img src="/assets/blog/lighting-effects.png" alt="" />
       <figcaption></figcaption>
     </figure>
 
@@ -77,12 +77,12 @@
 </li>
 </ul>
 <p>You will see how each effect works, the technologies they leverage, and in which scenarios they might best suit your needs.</p>
-<h2>Flashlight Effect with Vanilla JS</h2>
-<h3>Effect Description</h3>
+<h2>Flashlight effect with vanilla JS</h2>
+<h3>Effect description</h3>
 <p>The Flashlight Effect emulates a flashlight following the mouse cursor, illuminating a portion of the screen while the rest remains dark.</p>
 <p>This effect is rendered in the browser dynamically by continually updating CSS custom properties to track the position of the light source.</p>
 <p><img src="/assets/blog/article-6-css-gsap-flashlight-effect.png" alt="Flashlight Effect Rendering"></p>
-<h3>How It Works</h3>
+<h3>How it works</h3>
 <ul>
 <li>
 <p><strong>HTML</strong>: The HTML structure is straightforward, consisting of an image gallery grid with an overlay for darkening the &quot;light&quot; areas, which reflects the light source.
@@ -121,8 +121,8 @@
 <p><strong>Animation</strong>: The smoothness of the animation depends mainly on the browser's capabilities, with no advanced tools for managing timelines or easing effects.</p>
 </li>
 </ul>
-<h2>Spotlight Effect with GSAP and CSS</h2>
-<h3>Effect Description</h3>
+<h2>Spotlight effect with GSAP and CSS</h2>
+<h3>Effect description</h3>
 <p>In order to create the Spotlight Effect, I created two identical grid sections, adding the attribute:
 <br>
 <br>
@@ -134,7 +134,7 @@ aria-hidden = &quot;true&quot;
 <p>Here, GSAP manages the smooth and precise animation of the light circle’s position as it follows the mouse movement. Specifically, GSAP is used to animate the values of the CSS custom properties <code>--x</code> and <code>--y</code>, which determine the center position of the light circle within the overlay element.</p>
 <p><img src="/assets/blog/article-6-css-gsap-spotlight-effect.png" alt="Spotlight Effect Rendering"></p>
 <br>
-<h3>How It Works</h3>
+<h3>How it works</h3>
 <ul>
 <li>
 <p><strong>HTML</strong>: The HTML consists of an image gallery grid, with an added layer - a section with the class <code>overlay</code> - that uses the clip-path property to create the light circle.
@@ -190,9 +190,11 @@ and highly customizable effects.
 <br></p>
 </li>
 </ul>
-<p>This article is inspired by <a href="https://www.linkedin.com/in/michelle-barker-02819230/">Michelle Barker</a>’s study <a href="https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/">Dynamic CSS Masks with Custom Properties and GSAP</a>.</p>
-<p><strong>Images:</strong> <a href="https://www.freepik.com/">Freepik.com</a>, <a href="https://carbon.now.sh/">Carbon.sh</a></p>
-<p><strong>Code:</strong>: <a href="https://github.com/valentina-mota/lighting-effects-projects/tree/main">GitHub Repository</a></p>
+<p><strong>Images:</strong>
+<a href="https://www.freepik.com/" target="_blank" rel="noopener noreferrer">Freepik.com</a>,
+<a href="https://carbon.now.sh/" target="_blank" rel="noopener noreferrer">Carbon.sh</a></p>
+<p><strong>Code:</strong>
+<a href="https://github.com/valentina-mota/lighting-effects-projects/tree/main" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
 
   </div>
 </article>
@@ -203,7 +205,7 @@ and highly customizable effects.
   <p>
     <span><a href="#">vm</a></span>
   </p>
-  <p>© 2024 Valentina Mota. All rights reserved.</p>
+  <p>© 2025 Valentina Mota. All rights reserved.</p>
 </footer>
 
   </body>

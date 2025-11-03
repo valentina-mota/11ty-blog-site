@@ -53,7 +53,6 @@ h3,
 h4,
 p,
 figure,
-blockquote,
 dl,
 dd {
   margin: 0;
@@ -133,9 +132,29 @@ h3 {
   line-height: 1.1;
 }
 
-code {
+/* code {
   font-style: italic;
+} */
+
+.bt-quote {
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  border-left: 3px solid #0a4d9c; /* un blu discreto */
+  padding-left: 1rem;
+  margin: 1.5rem 0;
 }
+
+.bt-quote a {
+  color: #0a4d9c;
+  text-decoration: none;
+}
+
+.bt-quote a:hover {
+  text-decoration: underline;
+}
+
 
 strong {
   font-weight: var(--fw-700);
