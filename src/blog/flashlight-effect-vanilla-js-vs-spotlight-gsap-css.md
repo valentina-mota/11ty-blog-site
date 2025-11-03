@@ -126,6 +126,9 @@ Both effects offer creative solutions for advanced visual interactions, but they
   <br>
   <br>
 
-**Images:** [Freepik.com](https://www.freepik.com/){target="_blank", rel="noopener noreferrer"}, [Carbon.sh](https://carbon.now.sh/){target="_blank", rel="noopener noreferrer"}
+**Images:**
+<a href="https://www.freepik.com/" target="_blank" rel="noopener noreferrer">Freepik.com</a>, 
+<a href="https://carbon.now.sh/" target="_blank" rel="noopener noreferrer">Carbon.sh</a>
 
-**Code:**: [GitHub Repository](https://github.com/valentina-mota/lighting-effects-projects/tree/main){target="_blank", rel="noopener noreferrer"}
+**Code:**
+<a href="https://github.com/valentina-mota/lighting-effects-projects/tree/main" target="_blank" rel="noopener noreferrer">GitHub Repository</a>

@@ -76,16 +76,14 @@ Fair Use Disclaimer - The images and content used in this document are for the p
 
 ### References
 
-Maxwell Forrest, [***The Overwhelming World of Japanese Web Design***](https://www.uxresearch.jp/blog/japanese-web-design)
+Maxwell Forrest, <a href="https://www.uxresearch.jp/blog/japanese-web-design" target="_blank" rel="noopener noreferrer"><em><strong>The Overwhelming World of Japanese Web Design</strong></em></a>
 
-Sarransh Agrawal, [***The Art of the Cluttered Website: Why Japanese Web Design is So Unique***](https://www.prodt.co/blogs/the-art-of-the-cluttered-website-why-japanese-web-design-is-so-unique)
+Sarransh Agrawal, <a href="https://www.prodt.co/blogs/the-art-of-the-cluttered-website-why-japanese-web-design-is-so-unique" target="_blank" rel="noopener noreferrer"><em><strong>The Art of the Cluttered Website: Why Japanese Web Design is So Unique</strong></em></a>
 
-Suzuka Ito, [***Japanese Web Design Traits & Localization***](https://blog.btrax.com/japanese-web-design/)
+Suzuka Ito, <a href="https://blog.btrax.com/japanese-web-design/" target="_blank" rel="noopener noreferrer"><em><strong>Japanese Web Design Traits & Localization</strong></em></a>
 
-Julian Horsey, [***Inside look at Japanese web design techniques***](https://www.geeky-gadgets.com/japanese-web-design/)
+Julian Horsey, <a href="https://www.geeky-gadgets.com/japanese-web-design/" target="_blank" rel="noopener noreferrer"><em><strong>Inside look at Japanese web design techniques</strong></em></a>
 
-Douglass McGowan, [***The truth about Japanese web design***](https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/)
+Douglass McGowan, <a href="https://multilingual.com/issues/aug-sep-2018/the-truth-about-japanese-web-design/" target="_blank" rel="noopener noreferrer"><em><strong>The truth about Japanese web design</strong></em></a>
 
-
-Mondo Marketing, [***Differences Between Japan and USA Web Design Trends***](https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/)
-
+Mondo Marketing, <a href="https://mondo.marketing/differences-between-japan-and-usa-web-design-trends/" target="_blank" rel="noopener noreferrer"><em><strong>Differences Between Japan and USA Web Design Trends</strong></em></a>
