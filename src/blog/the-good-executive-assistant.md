@@ -2,7 +2,7 @@
 title: The good Executive Assistant
 author: Valentina Mota
 date: 2025-09-21
-tags: ["post", "featured"]
+tags: ["post"]
 image: /assets/blog/good-ex-assistant.png
 imageAlt: 
 description: Discover why today’s Executive Assistant needs IT and AI skills. From ERP to AI tools, digital literacy is key to supporting teams effectively.
