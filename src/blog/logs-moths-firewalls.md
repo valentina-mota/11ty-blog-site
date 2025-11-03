@@ -5,7 +5,7 @@ date:
 tags: ["post", "featured"]
 image: /assets/blog/from-log-to-firewall-blog-cover_1440x1080.png
 imageAlt:
-description: From sailors’ logs to digital firewalls, exploring the metaphors that shaped the language of computing..
+description: From sailors’ logs to digital firewalls, exploring the metaphors that shaped the language of computing.
 ---
 The language of computing comes from centuries of human work, sailors, builders, physicians, soldiers.
 
@@ -30,7 +30,7 @@ As computers moved from laboratories into offices and houses, their vocabulary b
 We still open windows, build frameworks, and store files in folders.
 The desktop itself is a metaphor for the workplace, and a platform suggests a structure that supports what stands on top of it.
 These words were chosen intentionally.
-<br>
+
 In the early 1980s, designers at Xerox PARC and later Apple wanted to make computing visual and familiar.
 Lev Manovich (2001) explains that the window metaphor connected digital space with human perspective, just like the framed view of a room or a painting. It turned abstract data into something spatial, where users could “enter” the machine instead of merely typing commands.
 
@@ -46,7 +46,7 @@ They *learn* and *communicate*, all terms, these, that make machines sound alive
 This metaphor came naturally, because humans understand new systems by comparing them to themselves.
 
 The story of the bug shows how literal accidents become part of language.
-In 1947, engineers at Harvard University found a moth trapped inside the Mark II Aiken Relay Calculator. Grace Hopper, a member of the programming team, taped it into her logbook and wrote: “First actual bug found".
+In 1947, engineers at Harvard University found a moth trapped inside the Mark II Aiken Relay Calculator. Grace Hopper, a member of the programming team, taped it into her logbook and wrote: "First actual bug found".
 The joke survived and debugging became a permanent part of programming.
 Engineers had already used the word bug to describe mechanical faults since the days of Thomas Edison, but Hopper turned *bug* and *debug* into everyday terms in computing.
 
