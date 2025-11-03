@@ -133,9 +133,9 @@ h3 {
   line-height: 1.1;
 }
 
-code {
+/* code {
   font-style: italic;
-}
+} */
 
 strong {
   font-weight: var(--fw-700);
