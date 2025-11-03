@@ -78,8 +78,9 @@ The metaphor makes technology sound effortless, but every byte stored and every 
 
 In 1996, three major companies, Intel, Ericsson, and Nokia, met to discuss how to create a common standard for a new kind of short-range radio technology. Their goal was to make different devices and industries work together more easily.
 During that meeting, Jim Kardach from Intel proposed the name Bluetooth, a tribute to Nordic culture, as a temporary code name. He explained:
-> "King Harald Bluetooth was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link."
-> - [Bluetooth.com](https://www.bluetooth.com/about-us/bluetooth-origin/)
+
+> King Harald Bluetooth was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link.
+> [Bluetooth.com](https://www.bluetooth.com/about-us/bluetooth-origin/)
 
 The name was not meant to be permanent. The team considered two alternatives, but both resulted inapplicable at the moment of the official launch, so Bluetooth stayed. The name spread quickly within the industry and became impossible to replace.
 Its logo combines two runes from the Younger Futhark alphabet, *Hagall* (ᚼ) and *Bjarkan* (ᛒ), the initials of King Harald Bluetooth’s name, merged into a single symbol.
