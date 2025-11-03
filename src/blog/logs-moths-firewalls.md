@@ -91,7 +91,7 @@ In 1996, three major companies, Intel, Ericsson, and Nokia, met to discuss how t
 During that meeting, Jim Kardach from Intel proposed the name **Bluetooth**, a tribute to Nordic culture, as a temporary code name. He explained:
 
 > "King Harald Bluetooth was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link."
-> <a href="https://www.bluetooth.com/about-us/bluetooth-origin/" target="_blank" rel="noopener noreferrer">Bluetooth.com</a>
+<a href="https://www.bluetooth.com/about-us/bluetooth-origin/" target="_blank" rel="noopener noreferrer">Bluetooth.com</a>
 
 The name was not meant to be permanent. The team considered two alternatives, but both resulted inapplicable at the moment of the official launch, so the name stayed. The name spread quickly within the industry and became impossible to replace.
 Its logo combines two runes from the Younger Futhark alphabet, *Hagall* (ᚼ) and *Bjarkan* (ᛒ), the initials of King Harald Bluetooth’s name, merged into a single symbol.
